@@ -1,7 +1,3 @@
-# ecommerce_app
-
-A new project made using Flutter and Fake Store API.
-
 ## E-commerce Application Using Flutter
 
 This Flutter application serves as a fully functional e-commerce platform that leverages the Fake Store API. It includes essential features such as infinite scrolling on the homepage, detailed product pages, robust search functionality, user authentication, product sorting, and a shopping cart.
